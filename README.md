@@ -62,6 +62,7 @@ Current Status: _Discord, Slack and Newsletters links are to be added._
 | Women Who Code NYC |  Women* Focused | Women Who Code is the largest and most active community of engineers dedicated to inspiring women to excel in technology careers. We envision a world where women are representative as technical executives, founders, VCs, board members, and software engineers. Our programs are designed to get you there. | [Website](https://www.meetup.com/WomenWhoCodeNYC/) |
 | Playcrafting NYC Meetup | All  | Playcrafting provides affordable education and industry events to help grow the game development community. We aim to help gamers and enthusiasts become developers and skilled developers become successful at expanding their audience and revenue. We do this through one-night classes, eight-week courses, and industry events (both large and small) for game developers and those aspiring to make games in topics including game design, programming, art, business and more. | [Website](https://www.meetup.com/gaming/) |
 | Hacker Hours | All | Free office hours for programming help - any programming language, all skill levels. The format is super simple: you come with a laptop, sit, hang out, and code, and flag down one of the organizers if you have a question. That's it! If we can't answer your question, we'll find you someone who can, or at least point you in the right direction. More experienced folks are also welcome as mentors. | [Website](https://www.meetup.com/hackerhours/) |
+| CUNY Tech Meetup | CUNY Affiliated | The CUNY Tech Meetup puts CUNY and its community of students, alumni, faculty and friends front and center in New York City’s growing tech sector. We will focus on creating an open forum where CUNY community members can connect to gain insight about, and be inspired by, NYC’s tech and innovation culture. This meetup will offer a place for CUNY techies to come together with each other, as well as with the larger NY tech community, to showcase their tech projects and initiatives and hear about the latest tech innovations in New York. We look forward to growing this together! | [Website](https://www.meetup.com/CUNY-Tech-Meetup/) |
 
 ### Facebook Groups
 
@@ -95,8 +96,8 @@ Current Status: _Discord, Slack and Newsletters links are to be added._
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
 | Tech Ladies | Women | Tech Ladies is a worldwide community with 50,000 members. Through a supportive online group, a free job board, and opportunities to learn, we help Tech Ladies grow their careers. | [Website](https://www.hiretechladies.com/)
-| WWCode Global | Women | | [Website]() |
-| CUNY Office of Workfoce Partnerships | CUNY Affiliated  |  | [Website]() |
+| Women Who Code Global | Women | | [Website](https://www.womenwhocode.com/) |
+| CUNY Office of Workfoce Partnerships ("In The Loop") | CUNY Affiliated  | Officially join our list to receive "In The Loop" our weekly curated guide to events and opportunities across NYC that the CUNY tech community should be in the know about. | [Website](https://us9.list-manage.com/subscribe?u=90ce25ec40ea491c1a8cc5a90&id=93e09eed9a) |
 | Big Apple Women in Tech | Women |  | [Website]() |
 | Diversify Tech | Underrepresented Groups in Tech | A collection of resources for underrepresented people in tech. Once a week, we’ll send you scholarships, events, job opportunities, and more. | [Website](https://www.diversifytech.co/) |
 | Frauvis | Black Women | | [Website]() |
