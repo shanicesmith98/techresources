@@ -44,8 +44,8 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 | Out 4 Undergrad | LGBTQIA+ | O4U changes lives. Each year, we invite a diverse class of high-achieving LGBTQ+ students to four unique conferences, where they’re inspired to pursue ambitious careers. | [Website](https://www.outforundergrad.org/tech)
 | Grace Hopper Celebration (GHC) | Women* Focused | The Grace Hopper Celebration of Women in Computing is a series of conferences designed to bring the research and career interests of women in computing to the forefront. It is the world's largest gathering of women in computing. Attend inspiring keynotes and sessions, network with peers, and gain important resources to help you succeed in and further your career. | [Website](https://ghc.anitab.org/) |
 | Richard Tapia Celebration of Diversity in Computing | All | The Richard Tapia Celebration of Diversity in Computing is a conference designed to promote diversity, connect undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities. | [Website](http://tapiaconference.org/) |
-| National Society of Black Engineers Convention (NSBE) | Black | Join more than 14,000 aspiring and practicing engineers, educators and representatives of more than 250 academic institutions, government agencies, corporations and nonprofit organizations for this amazing event. The Annual Convention showcases black students and professionals with a passion for science, technology, engineering and math (STEM) who are channeling their dedication in their communities and society at large. | [Website](http://convention.nsbe.org/) |
-| Society of Hispanic Professional Engineers Convention (SHPE) | Hispanic | The SHPE National Convention serves as the country’s largest gathering of Hispanic STEM students and professionals, offering a unique opportunity to engage, support, educate and advance the careers of Hispanic students and professionals. We encourage all who are invested in Hispanics in STEM – students, professionals, academics, hiring managers, and recruiters – to join us for an inspirational and transformational five days. | [Website](https://convention.shpe.org/) |
+| National Society of Black Engineers Convention (NSBE) | Black in STEM | Join more than 14,000 aspiring and practicing engineers, educators and representatives of more than 250 academic institutions, government agencies, corporations and nonprofit organizations for this amazing event. The Annual Convention showcases black students and professionals with a passion for science, technology, engineering and math (STEM) who are channeling their dedication in their communities and society at large. | [Website](http://convention.nsbe.org/) |
+| Society of Hispanic Professional Engineers Convention (SHPE) | Hispanics in STEM | The SHPE National Convention serves as the country’s largest gathering of Hispanic STEM students and professionals, offering a unique opportunity to engage, support, educate and advance the careers of Hispanic students and professionals. We encourage all who are invested in Hispanics in STEM – students, professionals, academics, hiring managers, and recruiters – to join us for an inspirational and transformational five days. | [Website](https://convention.shpe.org/) |
 | WECode @ Havard University | Women* Focused | WECode (Women Engineers Code) is the largest student-run conference in the country celebrating women engineers. We're dedicated to expanding the skills, network, and community of technical women worldwide, bringing together a diverse group of engineers over the course of two days to share ideas and conversations on technology and innovation. Enjoy empowering keynotes, intimate workshops, and the opportunity to mingle with industry leaders from top tech companies. | [Website](https://www.wecodeharvard.org/) |
 | Codeland Conference | All | CodeNewbie's two-day conference filled with talks, demos, and workshops designed for new coders. | [Website](https://codelandconf.com/) |
 
@@ -59,37 +59,44 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 | NYC Codecademy Group | Codecademy Users | Learning to code doesn't have to be a solitary activity. Just like anything else, you've got to put in the hours to get good at it. Why not at a Codecademy-led study group? | [Website](https://www.meetup.com/NYC-Codecademy-Group/) |
 | Women Who Code NYC |  Women* Focused | Women Who Code is the largest and most active community of engineers dedicated to inspiring women to excel in technology careers. We envision a world where women are representative as technical executives, founders, VCs, board members, and software engineers. Our programs are designed to get you there. | [Website](https://www.meetup.com/WomenWhoCodeNYC/) |
 | Playcrafting NYC Meetup | All  | Playcrafting provides affordable education and industry events to help grow the game development community. We aim to help gamers and enthusiasts become developers and skilled developers become successful at expanding their audience and revenue. We do this through one-night classes, eight-week courses, and industry events (both large and small) for game developers and those aspiring to make games in topics including game design, programming, art, business and more. | [Website](https://www.meetup.com/gaming/) |
-| Hacker Hours | All  | Free office hours for programming help - any programming language, all skill levels. The format is super simple: you come with a laptop, sit, hang out, and code, and flag down one of the organizers if you have a question. That's it! If we can't answer your question, we'll find you someone who can, or at least point you in the right direction. More experienced folks are also welcome as mentors. | [Website](https://www.meetup.com/hackerhours/) |
+| Hacker Hours | All | Free office hours for programming help - any programming language, all skill levels. The format is super simple: you come with a laptop, sit, hang out, and code, and flag down one of the organizers if you have a question. That's it! If we can't answer your question, we'll find you someone who can, or at least point you in the right direction. More experienced folks are also welcome as mentors. | [Website](https://www.meetup.com/hackerhours/) |
 
 ### Facebook Groups
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 |   | Black & Latinx Students | [Website]() |
-| Out in Tech |   | LGBTQIA+ | [Website]() |
+| Ladies Storm Hackathons | Women* Focused | | [Website]()
+| Ladies Storm Hackathons (Jobs/Internships) | Women* Focused | | [Website]() |
+| Tech Recruiter Email Sharing | All  |  | [Website]() |
+| Women of Rewriting the Code | Rewriting the Code members |  | [Website]() |
+| Tech Ladies | Women |  | [Website]() |
+| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students  |  | [Website]() |
+| Code, Tech and Caffeine | All |  | [Website]() |
+| HH Coding Interview Prep | All |  | [Website]() |
+| Sista Circle: Black Women In Tech | Black Women |  | [Website]() |
+
+
+
+
 
 ### Discord Groups
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
+| International Game Developers Association (IGDA) | All | | [Website]()
 
 ### Slack Channels
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 |   | Black & Latinx Students | [Website]() |
-| Out in Tech |   | LGBTQIA+ | [Website]() |
+| Tech Stack'd | Underrepresented Groups in Tech  | Tech Stack’d is an online community for underrepresented adults who want to advance their careers in tech, whether that’s through starting a tech company or joining a technical career like software engineering. By recognizing common pitfalls, Tech Stack’d fills in the gaps that cause many underrepresented people to fail when trying to break into tech. | [Website](https://www.techstackd.com/) |
 
 ### Newletters
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 |   | Black & Latinx Students | [Website]() |
-| Out in Tech |   | LGBTQIA+ | [Website]() |
+| Tech Ladies | Women | | [Website]()
+| WWCode Global | Women | | [Website]() |
+| CUNY Office of Workfoce Partnerships | CUNY Affiliated  |  | [Website]() |
+| Big Apple Women in Tech | Women |  | [Website]() |
+| Diversify Tech | Underrepresented Groups in Tech |  | [Website]() |
