@@ -53,13 +53,13 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| NYC PyLadies | Women* Focused |  | [Website]()
-| NYC Coders | All | | [Website]() |
-| Build with Code - New York City | All |  | [Website]() |
-| NYC Codecademy Group | Codecademy Users  |  | [Website]() |
-| Women Who Code NYC |  Women* Focused |  | [Website]() |
-| Playcrafting NYC Meetup | All  |  | [Website]() |
-| Hacker Hours | All  |  | [Website]() |
+| NYC PyLadies | Women* Focused | Pyladies is an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings. | [Website](https://www.meetup.com/NYC-PyLadies/)
+| NYC Coders | All | We are a community of developers prepping for coding interviews, participating in mini-hackathons, building portfolio projects, and attending software engineering panels TOGETHER. No coder is an island, and you don't have to be one either. | [Website](https://www.meetup.com/nyc-coders/) |
+| Build with Code - New York City | All | Build with Code is a community of coders organized by Codesmith. We host free weekly HTML & CSS, JavaScript, software engineering and career-oriented workshops through immersive lectures and pair-programming sessions.  | [Website](https://www.meetup.com/Build-with-Code-New-York/) |
+| NYC Codecademy Group | Codecademy Users | Learning to code doesn't have to be a solitary activity. Just like anything else, you've got to put in the hours to get good at it. Why not at a Codecademy-led study group? | [Website](https://www.meetup.com/NYC-Codecademy-Group/) |
+| Women Who Code NYC |  Women* Focused | Women Who Code is the largest and most active community of engineers dedicated to inspiring women to excel in technology careers. We envision a world where women are representative as technical executives, founders, VCs, board members, and software engineers. Our programs are designed to get you there. | [Website](https://www.meetup.com/WomenWhoCodeNYC/) |
+| Playcrafting NYC Meetup | All  | Playcrafting provides affordable education and industry events to help grow the game development community. We aim to help gamers and enthusiasts become developers and skilled developers become successful at expanding their audience and revenue. We do this through one-night classes, eight-week courses, and industry events (both large and small) for game developers and those aspiring to make games in topics including game design, programming, art, business and more. | [Website](https://www.meetup.com/gaming/) |
+| Hacker Hours | All  | Free office hours for programming help - any programming language, all skill levels. The format is super simple: you come with a laptop, sit, hang out, and code, and flag down one of the organizers if you have a question. That's it! If we can't answer your question, we'll find you someone who can, or at least point you in the right direction. More experienced folks are also welcome as mentors. | [Website](https://www.meetup.com/hackerhours/) |
 
 ### Facebook Groups
 
