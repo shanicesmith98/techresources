@@ -53,10 +53,13 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College |  | [Website](https://rewritingthecode.org/)
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 |   | Black & Latinx Students | [Website]() |
-| Out in Tech |   | LGBTQIA+ | [Website]() |
+| NYC PyLadies | Women* Focused |  | [Website]()
+| NYC Coders | All | | [Website]() |
+| Build with Code - New York City | All |  | [Website]() |
+| NYC Codecademy Group | Codecademy Users  |  | [Website]() |
+| Women Who Code NYC |  Women* Focused |  | [Website]() |
+| Playcrafting NYC Meetup | All  |  | [Website]() |
+| Hacker Hours | All  |  | [Website]() |
 
 ### Facebook Groups
 
