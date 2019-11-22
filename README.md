@@ -16,8 +16,6 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 
 ### Community Organizations
 
-Listed below are community organizations and nonprofits that focus on uniting and uplifting underepresented miniories in tech.
-
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
 | Rewriting the Code | Women in College | Rewriting the Code is a national non-profit organization dedicated to empowering a community of college women with a passion for technology. The community is free and open to all college women pursuing computing majors such as engineering, computer science, statistics, and math. As part of our community, you'll also have an opportunity to become a Rewriting the Code Fellow, which will give you access to further benefits. In addition to the RTC membership benefits, the fellowship includes exposure to RTC partner companies for potential internships or full-time jobs as well as robust summer programming and mentoring in select hub city locations. | [Website](https://rewritingthecode.org/)
@@ -57,8 +55,8 @@ Listed below are community organizations and nonprofits that focus on uniting an
 | ------ | ------ | ------ | ------ |
 | Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
 | Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 | [plugins/googledrive/README.md][PlGd] | Black & Latinx Students | [Website]() |
-| Out in Tech | [plugins/onedrive/README.md][PlOd] | LGBTQIA+ | [Website]() |
+| Code2040 |   | Black & Latinx Students | [Website]() |
+| Out in Tech |   | LGBTQIA+ | [Website]() |
 
 ### Facebook Groups
 
@@ -66,8 +64,8 @@ Listed below are community organizations and nonprofits that focus on uniting an
 | ------ | ------ | ------ | ------ |
 | Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
 | Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 | [plugins/googledrive/README.md][PlGd] | Black & Latinx Students | [Website]() |
-| Out in Tech | [plugins/onedrive/README.md][PlOd] | LGBTQIA+ | [Website]() |
+| Code2040 |   | Black & Latinx Students | [Website]() |
+| Out in Tech |   | LGBTQIA+ | [Website]() |
 
 ### Discord Groups
 
@@ -75,8 +73,8 @@ Listed below are community organizations and nonprofits that focus on uniting an
 | ------ | ------ | ------ | ------ |
 | Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
 | Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 | [plugins/googledrive/README.md][PlGd] | Black & Latinx Students | [Website]() |
-| Out in Tech | [plugins/onedrive/README.md][PlOd] | LGBTQIA+ | [Website]() |
+| Code2040 |   | Black & Latinx Students | [Website]() |
+| Out in Tech |   | LGBTQIA+ | [Website]() |
 
 ### Slack Channels
 
@@ -84,8 +82,8 @@ Listed below are community organizations and nonprofits that focus on uniting an
 | ------ | ------ | ------ | ------ |
 | Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
 | Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 | [plugins/googledrive/README.md][PlGd] | Black & Latinx Students | [Website]() |
-| Out in Tech | [plugins/onedrive/README.md][PlOd] | LGBTQIA+ | [Website]() |
+| Code2040 |   | Black & Latinx Students | [Website]() |
+| Out in Tech |   | LGBTQIA+ | [Website]() |
 
 ### Newletters
 
@@ -93,5 +91,5 @@ Listed below are community organizations and nonprofits that focus on uniting an
 | ------ | ------ | ------ | ------ |
 | Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
 | Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 | [plugins/googledrive/README.md][PlGd] | Black & Latinx Students | [Website]() |
-| Out in Tech | [plugins/onedrive/README.md][PlOd] | LGBTQIA+ | [Website]() |
+| Code2040 |   | Black & Latinx Students | [Website]() |
+| Out in Tech |   | LGBTQIA+ | [Website]() |
