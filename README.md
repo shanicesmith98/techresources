@@ -97,7 +97,7 @@ Current Status: _Discord, Slack and Newsletters links are to be added._
 | ------ | ------ | ------ | ------ |
 | Tech Ladies | Women | Tech Ladies is a worldwide community with 50,000 members. Through a supportive online group, a free job board, and opportunities to learn, we help Tech Ladies grow their careers. | [Website](https://www.hiretechladies.com/)
 | Women Who Code Global | Women | | [Website](https://www.womenwhocode.com/) |
-| CUNY Office of Workfoce Partnerships ("In The Loop") | CUNY Affiliated  | Officially join our list to receive "In The Loop" our weekly curated guide to events and opportunities across NYC that the CUNY tech community should be in the know about. | [Website](https://us9.list-manage.com/subscribe?u=90ce25ec40ea491c1a8cc5a90&id=93e09eed9a) |
-| Big Apple Women in Tech | Women |  | [Website]() |
+| CUNY Office of Workforce Partnerships ("In The Loop") | CUNY Affiliated  | Officially join our list to receive "In The Loop" our weekly curated guide to events and opportunities across NYC that the CUNY tech community should be in the know about. | [Website](https://us9.list-manage.com/subscribe?u=90ce25ec40ea491c1a8cc5a90&id=93e09eed9a) |
+| Big Apple Women in Tech | Women | This free newsletter exclusive to subscribers where we curate a list of the best women in tech events in NYC. Our goal is to inspire you to put yourself out there and meet other women in tech. | [Website](https://bigapplewit.com/) |
 | Diversify Tech | Underrepresented Groups in Tech | A collection of resources for underrepresented people in tech. Once a week, we’ll send you scholarships, events, job opportunities, and more. | [Website](https://www.diversifytech.co/) |
 | Frauvis | Black Women | | [Website]() |
