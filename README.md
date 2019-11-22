@@ -94,9 +94,9 @@ Current Status: _Discord, Slack and Newsletters links are to be added._
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Tech Ladies | Women | | [Website]()
+| Tech Ladies | Women | Tech Ladies is a worldwide community with 50,000 members. Through a supportive online group, a free job board, and opportunities to learn, we help Tech Ladies grow their careers. | [Website](https://www.hiretechladies.com/)
 | WWCode Global | Women | | [Website]() |
 | CUNY Office of Workfoce Partnerships | CUNY Affiliated  |  | [Website]() |
 | Big Apple Women in Tech | Women |  | [Website]() |
-| Diversify Tech | Underrepresented Groups in Tech |  | [Website]() |
+| Diversify Tech | Underrepresented Groups in Tech | A collection of resources for underrepresented people in tech. Once a week, we’ll send you scholarships, events, job opportunities, and more. | [Website](https://www.diversifytech.co/) |
 | Frauvis | Black Women | | [Website]() |
