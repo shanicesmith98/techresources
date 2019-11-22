@@ -12,7 +12,7 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 * [Facebook Groups]() - Online forums and communities on Facebook
 * [Discord Groups]() - Global communities built on Discord
 * [Slack Channels]() - Communities that gather and mingle through Slack
-* [Newletters]() - Email newsletters
+* [Newsletters]() - Email newsletters
 
 ### Community Organizations
 
@@ -75,10 +75,6 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 | HH Coding Interview Prep | All |  | [Website]() |
 | Sista Circle: Black Women In Tech | Black Women |  | [Website]() |
 
-
-
-
-
 ### Discord Groups
 
 | Name/Organization | Target Audience | Additional | Link |
@@ -91,7 +87,7 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 | ------ | ------ | ------ | ------ |
 | Tech Stack'd | Underrepresented Groups in Tech  | Tech Stack’d is an online community for underrepresented adults who want to advance their careers in tech, whether that’s through starting a tech company or joining a technical career like software engineering. By recognizing common pitfalls, Tech Stack’d fills in the gaps that cause many underrepresented people to fail when trying to break into tech. | [Website](https://www.techstackd.com/) |
 
-### Newletters
+### Newsletters
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
