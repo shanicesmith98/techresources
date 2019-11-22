@@ -10,7 +10,7 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 * [Conferences]() - Student-friendly conferences across the USA
 * [Meetup Groups]() - Tech meetup groups based in NYC
 * [Facebook Groups]() - Online forums and communities on Facebook
-* [Discord Groups]() - D streaming build system
+* [Discord Groups]() - Global communities built on Discord
 * [Slack Channels]() - Communities that gather and mingle through Slack
 * [Newletters]() - Email newsletters
 
