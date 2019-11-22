@@ -7,8 +7,8 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 * [Community Organizations]() - Virtual and Offline Communities!
 * [Technical Programs]() - Free programs to learn programming
 * [Mentorship Programs]() - Mentorship programs.
-* [Conferences]() - Conferences across the USA
-* [Meetup Groups]() - NYC-based tech meetup groups
+* [Conferences]() - Student-friendly conferences across the USA
+* [Meetup Groups]() - Tech meetup groups based in NYC
 * [Facebook Groups]() - Online forums and communities on Facebook
 * [Discord Groups]() - D streaming build system
 * [Slack Channels]() - Communities that gather and mingle through Slack
@@ -29,19 +29,15 @@ Listed below are community organizations and nonprofits that focus on uniting an
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 | [plugins/googledrive/README.md][PlGd] | Black & Latinx Students | [Website]() |
-| Out in Tech | [plugins/onedrive/README.md][PlOd] | LGBTQIA+ | [Website]() |
+| CUNY Tech Prep | CUNY Students | CUNY Tech Prep is a year-long full-stack JavaScript program for CUNY computer science majors to learn in-demand technologies, master professional soft skills, and land great tech jobs in NYC | [Website](https://cunytechprep.nyc/)
+| CodePath | College Students | Free in-person coding courses and access to tech companies for college students. CodePath.org is a 501 (c)(3) nonprofit increasing diversity in tech by transforming college C.S. education for underrepresented minorities and underserved populations. | [Website](https://codepath.org/) |
 
 ### Mentorship Programs
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 | [plugins/googledrive/README.md][PlGd] | Black & Latinx Students | [Website]() |
-| Out in Tech | [plugins/onedrive/README.md][PlOd] | LGBTQIA+ | [Website]() |
+| Out in Tech U | LGBTQIA+ Students | Out in Tech U’s Mentorship Program empowers and encourages diversity in the tech world, pairing young adults with like-minded professionals working in the tech sector today. Students can learn first-hand the hard and soft skills needed for launching a successful career. Through an eight-week-long growth workshop, mentors and mentees work closely together to create fun and inspiring projects, visit cool tech companies, and build lasting relationships based on mutual respect and interests. We offer both in-person mentorship in New York City, as well as remote mentorship anywhere in the United States. | [Website](https://outintech.com/u/mentorship/)
+| #BUILTBYGIRLS Wave | Women Ages 15 - 22 | WAVE connects young women (Advisees) aged 15-22 years old with professionals (Advisors) in tech as part of a 1:1 Advisor program. The goals are simple: Exposure - Expose young women and non-binary students to a variety of careers powered by tech, Skills - Arm them with practical skills for their first job, Network - Help them build their first network. We give high school and college women access to real Advisors, exclusive events at top tech companies, and no-fluff resources to help them explore and land their first internship or job. | [Website](https://www.builtbygirls.com/about-wave) |
 
 ### Conferences
 
