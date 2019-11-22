@@ -2,9 +2,9 @@
 
 This is stockpile of resources I've found useful and allowed me to immerse myself in the tech community as a student. 
 
-Current Status: _Discord, Slack and Newsletters links are to be added._
+Current Status: _Complete!_
 
-### Catergories 
+### Catergories (To Be Linked)
 
 * [Community Organizations]() - Virtual and Offline Communities
 * [Technical Programs]() - Free programs to learn programming
