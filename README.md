@@ -41,19 +41,19 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Out 4 Undergrad | LGBTQIA+ | | [Website]()
-| Grace Hopper Celebration (GHC) | Women* Focused | | [Website]() |
-| Richard Tapia Celebration of Diversity in Computing | All |  | [Website]() |
-| National Society of Black Engineers Convention (NSBE) | Black | | [Website]() |
-| Society of Hispanic Professional Engineers Convention (SHPE) | Hispanic | | [Website]() |
-| WECode @ Havard University | Women* Focused |  | [Website]() |
-| Codeland Conference | All | | [Website]() |
+| Out 4 Undergrad | LGBTQIA+ | O4U changes lives. Each year, we invite a diverse class of high-achieving LGBTQ+ students to four unique conferences, where they’re inspired to pursue ambitious careers. | [Website](https://www.outforundergrad.org/tech)
+| Grace Hopper Celebration (GHC) | Women* Focused | The Grace Hopper Celebration of Women in Computing is a series of conferences designed to bring the research and career interests of women in computing to the forefront. It is the world's largest gathering of women in computing. Attend inspiring keynotes and sessions, network with peers, and gain important resources to help you succeed in and further your career. | [Website](https://ghc.anitab.org/) |
+| Richard Tapia Celebration of Diversity in Computing | All | The Richard Tapia Celebration of Diversity in Computing is a conference designed to promote diversity, connect undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities. | [Website](http://tapiaconference.org/) |
+| National Society of Black Engineers Convention (NSBE) | Black | Join more than 14,000 aspiring and practicing engineers, educators and representatives of more than 250 academic institutions, government agencies, corporations and nonprofit organizations for this amazing event. The Annual Convention showcases black students and professionals with a passion for science, technology, engineering and math (STEM) who are channeling their dedication in their communities and society at large. | [Website](http://convention.nsbe.org/) |
+| Society of Hispanic Professional Engineers Convention (SHPE) | Hispanic | The SHPE National Convention serves as the country’s largest gathering of Hispanic STEM students and professionals, offering a unique opportunity to engage, support, educate and advance the careers of Hispanic students and professionals. We encourage all who are invested in Hispanics in STEM – students, professionals, academics, hiring managers, and recruiters – to join us for an inspirational and transformational five days. | [Website](https://convention.shpe.org/) |
+| WECode @ Havard University | Women* Focused | WECode (Women Engineers Code) is the largest student-run conference in the country celebrating women engineers. We're dedicated to expanding the skills, network, and community of technical women worldwide, bringing together a diverse group of engineers over the course of two days to share ideas and conversations on technology and innovation. Enjoy empowering keynotes, intimate workshops, and the opportunity to mingle with industry leaders from top tech companies. | [Website](https://www.wecodeharvard.org/) |
+| Codeland Conference | All | CodeNewbie's two-day conference filled with talks, demos, and workshops designed for new coders. | [Website](https://codelandconf.com/) |
 
 ### Meetup Groups
 
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
+| Rewriting the Code | Women in College |  | [Website](https://rewritingthecode.org/)
 | Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
 | Code2040 |   | Black & Latinx Students | [Website]() |
 | Out in Tech |   | LGBTQIA+ | [Website]() |
@@ -72,9 +72,6 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
 | Rewriting the Code | Women in College | | [Website](https://rewritingthecode.org/)
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students | | [Website](https://witny.org/) |
-| Code2040 |   | Black & Latinx Students | [Website]() |
-| Out in Tech |   | LGBTQIA+ | [Website]() |
 
 ### Slack Channels
 
