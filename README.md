@@ -1,6 +1,8 @@
 # Tech Resources
 
-This is stockpile of resources I've found useful and allowed me to immerse myself in the tech community as a student.
+This is stockpile of resources I've found useful and allowed me to immerse myself in the tech community as a student. 
+
+Current Status: _Discord, Slack and Newsletters links are to be added._
 
 ### Catergories 
 
@@ -86,6 +88,7 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 | Name/Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
 | Tech Stack'd | Underrepresented Groups in Tech  | Tech Stack’d is an online community for underrepresented adults who want to advance their careers in tech, whether that’s through starting a tech company or joining a technical career like software engineering. By recognizing common pitfalls, Tech Stack’d fills in the gaps that cause many underrepresented people to fail when trying to break into tech. | [Website](https://www.techstackd.com/) |
+| Frauvis | Black Women | | [Website]() |
 
 ### Newsletters
 
@@ -96,3 +99,4 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 | CUNY Office of Workfoce Partnerships | CUNY Affiliated  |  | [Website]() |
 | Big Apple Women in Tech | Women |  | [Website]() |
 | Diversify Tech | Underrepresented Groups in Tech |  | [Website]() |
+| Frauvis | Black Women | | [Website]() |
