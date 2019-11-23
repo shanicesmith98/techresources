@@ -29,7 +29,7 @@ Current Status: _Complete!_
 
 | Organization | Target Audience | Additional | Link |
 | ------ | ------ | ------ | ------ |
-| CUNY Tech Prep | CUNY Students | CUNY Tech Prep is a year-long full-stack JavaScript program for CUNY computer science majors to learn in-demand technologies, master professional soft skills, and land great tech jobs in NYC | [Website](https://cunytechprep.nyc/)
+| CUNY Tech Prep | CUNY Students | CUNY Tech Prep is a year-long full-stack JavaScript program for CUNY computer science majors to learn in-demand technologies, master professional soft skills, and land great tech jobs in NYC. | [Website](https://cunytechprep.nyc/)
 | CodePath | College Students | Free in-person coding courses and access to tech companies for college students. CodePath.org is a 501 (c)(3) nonprofit increasing diversity in tech by transforming college C.S. education for underrepresented minorities and underserved populations. | [Website](https://codepath.org/) |
 
 ### Mentorship Programs
