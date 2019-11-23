@@ -8,13 +8,13 @@ Current Status: _Complete!_
 
 * [Community Organizations]() - Virtual and Offline Communities
 * [Technical Programs]() - Free programs to learn programming
-* [Mentorship Programs]() - Mentorship programs.
+* [Mentorship Programs]() - Online and in-person Mentorship programs
 * [Conferences]() - Student-friendly conferences across the USA
 * [Meetup Groups]() - Tech meetup groups based in NYC
 * [Facebook Groups]() - Online forums and communities on Facebook
 * [Discord Groups]() - Global communities built on Discord
 * [Slack Channels]() - Communities that gather and mingle through Slack
-* [Newsletters]() - Email newsletters
+* [Newsletters]() - Email newsletters to stay connected from your inbox
 
 ### Community Organizations
 
