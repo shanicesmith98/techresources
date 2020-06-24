@@ -2,7 +2,7 @@
 
 This is stockpile of resources I've found useful and allowed me to immerse myself in the tech community as a student. 
 
-Current Status: _Complete!_
+Current Status: Needs updating and possible conversion to website...
 
 ### Catergories (To Be Linked)
 
