@@ -4,17 +4,17 @@ This is stockpile of resources I've found useful and allowed me to immerse mysel
 
 Current Status: Needs updating and possible conversion to website...
 
-### Catergories (To Be Linked)
+### Catergories
 
-* [Community Organizations]() - Virtual and Offline Communities
-* [Technical Programs]() - Free programs to learn programming
-* [Mentorship Programs]() - Online and in-person Mentorship programs
-* [Conferences]() - Student-friendly conferences across the USA
-* [Meetup Groups]() - Tech meetup groups based in NYC
-* [Facebook Groups]() - Online forums and communities on Facebook
-* [Discord Groups]() - Global communities built on Discord
-* [Slack Channels]() - Communities that gather and mingle through Slack
-* [Newsletters]() - Email newsletters to stay connected from your inbox
+* [Community Organizations](https://github.com/shanicesmith98/techresources/blob/master/README.md#community-organizations) - Virtual and Offline Communities
+* [Technical Programs](https://github.com/shanicesmith98/techresources/blob/master/README.md#technical-programs) - Free programs to learn programming
+* [Mentorship Programs](https://github.com/shanicesmith98/techresources/blob/master/README.md#mentorship-programs) - Online and in-person Mentorship programs
+* [Conferences](https://github.com/shanicesmith98/techresources/blob/master/README.md#conferences) - Student-friendly conferences across the USA
+* [Meetup Groups](https://github.com/shanicesmith98/techresources/blob/master/README.md#meetup-groups) - Tech meetup groups based in NYC
+* [Facebook Groups](https://github.com/shanicesmith98/techresources/blob/master/README.md#facebook-groups) - Online forums and communities on Facebook
+* [Discord Groups](https://github.com/shanicesmith98/techresources/blob/master/README.md#discord-groups) - Global communities built on Discord
+* [Slack Channels](https://github.com/shanicesmith98/techresources/blob/master/README.md#slack-channels) - Communities that gather and mingle through Slack
+* [Newsletters](https://github.com/shanicesmith98/techresources/blob/master/README.md#newsletters) - Email newsletters to stay connected from your inbox
 
 ### Community Organizations
 
