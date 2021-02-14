@@ -1,8 +1,6 @@
 # Tech Resources
 
-This is stockpile of resources I've found useful and allowed me to immerse myself in the tech community as a student. 
-
-Current Status: Needs updating and possible conversion to website...
+This is stockpile of resources geared towards people entering the tech industry. 
 
 ### Catergories
 
@@ -56,6 +54,7 @@ Current Status: Needs updating and possible conversion to website...
 | Society of Hispanic Professional Engineers Convention (SHPE) | Hispanics in STEM | The SHPE National Convention serves as the country’s largest gathering of Hispanic STEM students and professionals, offering a unique opportunity to engage, support, educate and advance the careers of Hispanic students and professionals. We encourage all who are invested in Hispanics in STEM – students, professionals, academics, hiring managers, and recruiters – to join us for an inspirational and transformational five days. | [Website](https://convention.shpe.org/) |
 | WECode @ Havard University | Women* Focused | WECode (Women Engineers Code) is the largest student-run conference in the country celebrating women engineers. We're dedicated to expanding the skills, network, and community of technical women worldwide, bringing together a diverse group of engineers over the course of two days to share ideas and conversations on technology and innovation. Enjoy empowering keynotes, intimate workshops, and the opportunity to mingle with industry leaders from top tech companies. | [Website](https://www.wecodeharvard.org/) |
 | Codeland Conference | All | CodeNewbie's two-day conference filled with talks, demos, and workshops designed for new coders. | [Website](https://codelandconf.com/) |
+| AfroTech World | Black in Tech | AfroTech is a conference experience and continues to be one of the largest multicultural tech conferences in the United States, bringing together engineers, venture capitalists, recruiters, technologists, and culture enthusiasts from all over the world. It is the definitive conference that brings leaders in technology and business together to exchange ideas and build a strong Black tech community. | [Website](https://experience.afrotech.com/) |
 
 ### Meetup Groups
 
@@ -79,7 +78,6 @@ Current Status: Needs updating and possible conversion to website...
 | Tech Recruiter Email Sharing | All  |  | [Website]() |
 | Women of Rewriting the Code | Rewriting the Code members |  | [Website]() |
 | Tech Ladies | Women |  | [Website]() |
-| Women in Technology & Entrepreneurship in New York (WiTNY) | Women CUNY Students  |  | [Website]() |
 | Code, Tech and Caffeine | All |  | [Website]() |
 | HH Coding Interview Prep | All |  | [Website]() |
 | Sista Circle: Black Women In Tech | Black Women |  | [Website]() |
